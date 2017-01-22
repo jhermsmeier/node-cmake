@@ -1,0 +1,6 @@
+.*
+*.log
+build
+docs
+example
+test
