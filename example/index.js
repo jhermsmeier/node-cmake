@@ -1,2 +1,2 @@
 'use strict';
-module.exports = require('node-cmake')('example');
+module.exports = require('..')('example');
